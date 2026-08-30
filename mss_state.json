@@ -6,7 +6,7 @@
     "week_low": false,
     "day_high": false,
     "day_low": false,
-    "4h_high": false,
+    "4h_high": true,
     "4h_low": false
   },
   "period_keys": {
@@ -17,8 +17,8 @@
   },
   "mss_pending": {
     "direction": "bearish",
-    "level": 4458.71504,
-    "sweep_extreme": 4458.98249,
+    "level": 4458.72155,
+    "sweep_extreme": 4458.985,
     "swept_period": "4h"
   }
 }
