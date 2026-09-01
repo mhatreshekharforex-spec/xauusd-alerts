@@ -6,15 +6,15 @@
     "week_low": true,
     "day_high": false,
     "day_low": false,
-    "4h_high": true,
+    "4h_high": false,
     "4h_low": false
   },
   "period_keys": {
     "month": "2026-08-01",
     "week": "2026-08-24",
     "day": "2026-08-31",
-    "4h": "2026-09-01 03:00:00"
+    "4h": "2026-09-01 07:00:00"
   },
   "mss_pending": null,
-  "last_processed_time": "2026-09-01 10:50:00"
+  "last_processed_time": "2026-09-01 10:59:00"
 }
