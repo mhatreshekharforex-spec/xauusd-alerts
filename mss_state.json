@@ -7,7 +7,7 @@
     "day_high": false,
     "day_low": false,
     "4h_high": false,
-    "4h_low": false
+    "4h_low": true
   },
   "period_keys": {
     "month": "2026-08-01",
@@ -15,6 +15,11 @@
     "day": "2026-08-31",
     "4h": "2026-09-01 11:00:00"
   },
-  "mss_pending": null,
-  "last_processed_time": "2026-09-01 17:31:00"
+  "mss_pending": {
+    "direction": "bullish",
+    "level": 4429.05408,
+    "sweep_extreme": 4424.37142,
+    "swept_period": "4h"
+  },
+  "last_processed_time": "2026-09-01 17:45:00"
 }
