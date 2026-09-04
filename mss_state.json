@@ -15,11 +15,6 @@
     "day": "2026-09-03",
     "4h": "2026-09-04 19:00:00"
   },
-  "mss_pending": {
-    "direction": "bullish",
-    "level": 4409.87554,
-    "sweep_extreme": 4370.98457,
-    "swept_period": "4h"
-  },
-  "last_processed_time": "2026-09-04 23:20:00"
+  "mss_pending": null,
+  "last_processed_time": "2026-09-04 23:32:00"
 }
