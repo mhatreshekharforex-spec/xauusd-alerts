@@ -15,11 +15,6 @@
     "day": "2026-09-06",
     "4h": "2026-09-07 23:00:00"
   },
-  "mss_pending": {
-    "direction": "bearish",
-    "level": 4404.08369,
-    "sweep_extreme": 4415.23982,
-    "swept_period": "4h"
-  },
-  "last_processed_time": "2026-09-08 03:58:00"
+  "mss_pending": null,
+  "last_processed_time": "2026-09-08 04:22:00"
 }
