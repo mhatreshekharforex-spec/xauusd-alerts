@@ -4,7 +4,7 @@
     "month_low": false,
     "week_high": false,
     "week_low": false,
-    "day_high": false,
+    "day_high": true,
     "day_low": false,
     "4h_high": false,
     "4h_low": false
@@ -15,6 +15,11 @@
     "day": "2026-09-07",
     "4h": "2026-09-08 07:00:00"
   },
-  "mss_pending": null,
-  "last_processed_time": "2026-09-08 11:19:00"
+  "mss_pending": {
+    "direction": "bearish",
+    "level": 4428.10964,
+    "sweep_extreme": 4435.55926,
+    "swept_period": "day"
+  },
+  "last_processed_time": "2026-09-08 11:32:00"
 }
