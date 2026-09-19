@@ -6,15 +6,20 @@
     "week_low": false,
     "day_high": false,
     "day_low": false,
-    "4h_high": false,
-    "4h_low": false
+    "4h_high": true,
+    "4h_low": true
   },
   "period_keys": {
     "month": "2026-08-01",
     "week": "2026-09-07",
     "day": "2026-09-18",
-    "4h": "2026-09-19 07:00:00"
+    "4h": "2026-09-19 11:00:00"
   },
-  "mss_pending": null,
-  "last_processed_time": "2026-09-19 11:40:00"
+  "mss_pending": {
+    "direction": "bearish",
+    "level": 4380.00964,
+    "sweep_extreme": 4380.25256,
+    "swept_period": "4h"
+  },
+  "last_processed_time": "2026-09-19 16:35:00"
 }
