@@ -2,19 +2,19 @@
   "swept": {
     "month_high": false,
     "month_low": true,
-    "week_high": false,
+    "week_high": true,
     "week_low": false,
     "day_high": true,
     "day_low": true,
-    "4h_high": true,
-    "4h_low": true
+    "4h_high": false,
+    "4h_low": false
   },
   "period_keys": {
     "month": "2026-09-01",
     "week": "2026-10-05",
     "day": "2026-10-11",
-    "4h": "2026-10-12 03:00:00"
+    "4h": "2026-10-12 07:00:00"
   },
   "mss_pending": null,
-  "last_processed_time": "2026-10-12 10:55:00"
+  "last_processed_time": "2026-10-12 14:43:00"
 }
