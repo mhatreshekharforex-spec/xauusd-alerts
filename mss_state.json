@@ -13,13 +13,8 @@
     "month": "2026-09-01",
     "week": "2026-10-19",
     "day": "2026-10-29",
-    "4h": "2026-10-30 11:00:00"
+    "4h": "2026-10-30 19:00:00"
   },
-  "mss_pending": {
-    "direction": "bullish",
-    "level": 3999.38103,
-    "sweep_extreme": 3989.133,
-    "swept_period": "4h"
-  },
-  "last_processed_time": "2026-10-30 17:01:00"
+  "mss_pending": null,
+  "last_processed_time": "2026-10-30 23:43:00"
 }
