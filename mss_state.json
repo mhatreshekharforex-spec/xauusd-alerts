@@ -4,7 +4,7 @@
     "month_low": true,
     "week_high": false,
     "week_low": false,
-    "day_high": true,
+    "day_high": false,
     "day_low": false,
     "4h_high": false,
     "4h_low": false
@@ -12,14 +12,9 @@
   "period_keys": {
     "month": "2026-10-01",
     "week": "2026-11-16",
-    "day": "2026-11-25",
-    "4h": "2026-11-26 23:00:00"
+    "day": "2026-11-26",
+    "4h": "2026-11-27 07:00:00"
   },
-  "mss_pending": {
-    "direction": "bullish",
-    "level": 3573.51872,
-    "sweep_extreme": 3561.76093,
-    "swept_period": "4h"
-  },
-  "last_processed_time": "2026-11-27 06:50:00"
+  "mss_pending": null,
+  "last_processed_time": "2026-11-27 13:25:00"
 }
